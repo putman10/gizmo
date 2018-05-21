@@ -17,3 +17,8 @@
   display: inline-block;
   width: 32.5%;
 }
+
+body{
+  background-image: url("../img/funky-lines.png");
+  background-color: red;
+}
