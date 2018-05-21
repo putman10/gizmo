@@ -14,11 +14,26 @@
 }
 
 .galleryimage{
-  display: inline-block;
   width: 32.5%;
 }
 
 body{
   background-image: url("../img/funky-lines.png");
   background-color: red;
+}
+
+h1 {
+  text-decoration: underline;
+}
+
+li {
+  color: green;
+}
+
+a {
+  text-decoration: none;
+  color: gold;
+}
+a:visited {
+  color: maroon;
 }
